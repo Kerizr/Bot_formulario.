@@ -1,11 +1,11 @@
 #Actividades de Frontend 🧑‍💻
 En el siguiente se presentan algunas actividades dadas por Innovación virtual para el curso de LaunchX.
 
-🤓Boyer persona🤓
+👤Boyer persona👤
 
 👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/Boyer%20persona.jpg
 
-😎Publico objetivo😎  
+👥Publico objetivo👥
 
 👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/publico%20objetivo.png
 
@@ -15,6 +15,9 @@ En el siguiente se presentan algunas actividades dadas por Innovación virtual p
 
 🖋️Toma de requerimientos🖋️
 👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/Toma%20de%20requerimientos
+
+🔁🔀Diagrama de flujo🔁🔀
+👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/Diagrama%20de%20abogabot.png
 
 💻Versión Escritorio Abogabot.💻
 👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/tree/main/Escritorio
