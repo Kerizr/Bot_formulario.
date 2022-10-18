@@ -25,5 +25,5 @@ En el siguiente se presentan algunas actividades dadas por Innovación virtual p
 🔽⬅Creación de iconos y botones utilizados⏺️
 👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/iconos%20y%20botones%20creados%20pra%20abogabot%20movil.jpg
 
-🧑‍💻Proyecto con codigo en progreso.🧑‍💻
+🧑‍💻Proyecto con prueba de código en progreso.🧑‍💻
 https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/tree/main/Proyecto%20en%20progreso
