@@ -1,13 +1,15 @@
-# Actividades de Frontend.🧑‍💻
+🧑‍💻🧑‍💻🧑‍💻# Actividades de Frontend #🧑‍💻🧑‍💻🧑‍💻
 En el siguiente se presentan algunas actividades dadas por Innovación virtual para el curso de LaunchX.
 
-Iniciando con el boyer persona:🤓
+🤓🤓🤓 Boyer persona 🤓🤓🤓
+https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/Boyer%20persona.jpg
 
-Publico objetivo: 😎
+😎😎😎 Publico objetivo 😎😎😎
+https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/publico%20objetivo.png
 
 
-🤖🤖🤖🤖 Interfaz de formulario web 🤖🤖🤖🤖
- 🤖🤖🤖🤖    Bot_formulario.        🤖🤖🤖🤖
+     INTERFAZ DE FORMULARIO WEB
+ 🤖🤖🤖🤖_ABOGABOT_🤖🤖🤖🤖
 
 🖋️🖋️🖋️#Toma de requerimientos# 🖋️🖋️🖋️
 Interfaz de usuario para la creación de pagína web, Interfaz de formulario web Caso: Abogabot Descripción:
