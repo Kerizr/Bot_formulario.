@@ -11,7 +11,7 @@ https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/publico%20objet
      INTERFAZ DE FORMULARIO WEB
  🤖🤖🤖🤖_ABOGABOT_🤖🤖🤖🤖
 
-🖋️🖋️🖋️#Toma de requerimientos# 🖋️🖋️🖋️
+🖋️🖋️🖋️Toma de requerimientos🖋️🖋️🖋️
 Interfaz de usuario para la creación de pagína web, Interfaz de formulario web Caso: Abogabot Descripción:
 
 *El cliente pide un formulario para realizar demandas.
@@ -33,3 +33,5 @@ Interfaz de usuario para la creación de pagína web, Interfaz de formulario web
 *La preferncia de colores del cliente es azul marino y blanco, pero acepta pro (Cómo propuestas para el diseño decidí proponer un tono de azul claro)
 
 PROPUESTA POR PARTE DEL DEV: Agregaré un menú con cierto complementos tales cómo BLOG, LEYES, y ASESORAMIENTO. Estos estarán incluidos junto al llenado de formulario para las DEMANDAS.
+
+🧑‍💻🧑‍💻Versión Escritorio🧑‍💻🧑‍💻
