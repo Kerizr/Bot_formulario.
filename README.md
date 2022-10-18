@@ -14,7 +14,7 @@ En el siguiente se presentan algunas actividades dadas por Innovación virtual p
  🤖🤖🤖_ABOGABOT_🤖🤖🤖
 
 🖋️Toma de requerimientos🖋️
-👉.[Toma de requerimientos].(https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/Toma%20de%20requerimientos)
+👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/Toma%20de%20requerimientos
 
 🔁🔀Diagrama de flujo🔁🔀
 👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/Diagrama%20de%20abogabot.png
