@@ -7,20 +7,19 @@ En el siguiente se presentan algunas actividades dadas por Innovación virtual p
 
 👥Publico objetivo👥
 
-👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/publico%20objetivo.png
+👉[Publico objetivo](https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/publico%20objetivo.png)
 
 
      INTERFAZ DE FORMULARIO WEB
  🤖🤖🤖_ABOGABOT_🤖🤖🤖
 
-🖋️Toma de requerimientos🖋️
-👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/Toma%20de%20requerimientos
+👉[Toma de requerimientos](https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/9215c430f4cd211081656fe20e14a02638e91f45/Toma%20de%20requerimientos.txt)
 
 🔁🔀Diagrama de flujo🔁🔀
-👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/Diagrama%20de%20abogabot.png
+👉[Diagrama de flujo](https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/Diagrama%20de%20abogabot.png)
 
-💻Versión Escritorio Abogabot.💻
-👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/tree/main/Escritorio
+💻Versión Escritorio Abogabot💻
+👉[Versión Escritorio Abogabot](https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/tree/main/Escritorio)
 
 📱Vesión móvil Abogabot.📱
 👉https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/tree/main/m%C3%B3vil
