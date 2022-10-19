@@ -5,13 +5,21 @@
 
 INDICE:
 •	Boyer Persona.
+
 •	Público objetivo.
+
 •	ABOGABOT:
+
      o	Toma de requerimientos.
+     
      o	Diagrama de flujo.
+     
      o	Versión Escritorio Abogabot.
+     
      o	Versión móvil Abogabot.
+     
      o	Creación de iconos y botones utilizados.
+     
      o	Proyecto con prueba de código en progreso.
           
 
