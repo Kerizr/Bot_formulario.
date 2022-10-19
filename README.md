@@ -1,6 +1,6 @@
-#Actividades de Frontend
+ #Actividades de Frontend.
 
-👋👋👋Hola a todos, en el siguiente se presentan algunas actividades dadas por Innovación virtual para el curso de LaunchX.👋👋👋
+Hola a todos, en el siguiente se presentan algunas actividades dadas por Innovación virtual para el curso de LaunchX.👋👋👋
 ![image](https://user-images.githubusercontent.com/114261500/196601382-3a6219a2-81fa-4d8f-8173-630cc5692042.png)
 
 INDICE:
