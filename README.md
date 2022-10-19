@@ -3,6 +3,18 @@
 👋👋👋Hola a todos, en el siguiente se presentan algunas actividades dadas por Innovación virtual para el curso de LaunchX.👋👋👋
 ![image](https://user-images.githubusercontent.com/114261500/196601382-3a6219a2-81fa-4d8f-8173-630cc5692042.png)
 
+INDICE:
+•	Boyer Persona.
+•	Público objetivo.
+•	ABOGABOT:
+     o	Toma de requerimientos.
+     o	Diagrama de flujo.
+     o	Versión Escritorio Abogabot.
+     o	Versión móvil Abogabot.
+     o	Creación de iconos y botones utilizados.
+     o	Proyecto con prueba de código en progreso.
+          
+
 👤Boyer persona👤
 👉[Boyer persona](https://github.com/Kerizr/Ejercicio-de-UI-UX-Abogabot-/blob/main/Boyer%20persona.jpg)
 
